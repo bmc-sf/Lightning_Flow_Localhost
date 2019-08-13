@@ -8,7 +8,7 @@
     "cors": "^2.8.5",
     "express": "^4.16.2",
     "jsforce": "^1.9.1",
-    "nforce": "^1.10.2"
+    "nforce": "^1.12.2"
   },
   "devDependencies": {},
   "scripts": {
